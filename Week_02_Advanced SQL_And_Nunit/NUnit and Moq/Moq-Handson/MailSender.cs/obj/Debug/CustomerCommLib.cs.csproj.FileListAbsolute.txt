@@ -1,0 +1,6 @@
+C:\Users\shubh\source\repos\MailSender.cs\bin\Debug\MailSender.cs.dll
+C:\Users\shubh\source\repos\MailSender.cs\bin\Debug\MailSender.cs.pdb
+C:\Users\shubh\source\repos\MailSender.cs\obj\Debug\CustomerCommLib.cs.csproj.AssemblyReference.cache
+C:\Users\shubh\source\repos\MailSender.cs\obj\Debug\CustomerCommLib.cs.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\MailSender.cs\obj\Debug\MailSender.cs.dll
+C:\Users\shubh\source\repos\MailSender.cs\obj\Debug\MailSender.cs.pdb
